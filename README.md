@@ -56,6 +56,9 @@ The backend exposes the following API endpoint:
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Backend**: Flask, NumPy, Scikit-learn
 - **Machine Learning**: Pre-trained SVM model
+![Screenshot 2025-04-25 180209](https://github.com/user-attachments/assets/bb10ddef-dcbf-4e24-bad6-c718d587e253)
+![Screenshot 2025-04-25 180248](https://github.com/user-attachments/assets/c9c3454a-be16-4e56-95b8-e3ed4f2a02f0)
+
 
 ## License
 
